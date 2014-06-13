@@ -1,5 +1,5 @@
 #Passo utilizados para criação do repositorio no github
-1. Criando o arquivo luvett em /var/www/html/
+1. Criando o arquivo *luvett* em:  /var/www/html/  
    mkdir estudo_git
 2. Iniciando o repositorio dentra da pasta criada
 	git init	
